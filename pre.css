@@ -1,6 +1,9 @@
 body{
     /*background-color: blueviolet;*/
     background-image: url('rune.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+
 }
 h1{
     color:orange;
