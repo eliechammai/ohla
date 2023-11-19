@@ -3,12 +3,12 @@ body{
     background-image: url('rune.jfif');
     background-size: cover;
     background-repeat: no-repeat;
-    background-size: 50% 50%;
-
+    
+    background-size: 1300px 650px;
 }
 h1{
     color:orange;
-     background-color: black;
+    
 }
 h2 {
 color: green;
