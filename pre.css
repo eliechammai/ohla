@@ -3,6 +3,7 @@ body{
     background-image: url('rune.jfif');
     background-size: cover;
     background-repeat: no-repeat;
+    background-size: 50% 50%;
 
 }
 h1{
